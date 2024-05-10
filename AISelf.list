@@ -15,6 +15,7 @@ DOMAIN-KEYWORD,chatgpt.com
 DOMAIN-SUFFIX,client.relay.crisp.chat
 DOMAIN-SUFFIX,s.gravatar.com
 DOMAIN-KEYWORD,chatgpt
+
 DOMAIN-KEYWORD,openai
 DOMAIN,gemini.google.com
 DOMAIN-SUFFIX,auth0.com
@@ -32,3 +33,5 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
+
+DOMAIN-SUFFIX,a.nel.cloudflare.com
