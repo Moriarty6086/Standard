@@ -31,7 +31,7 @@ DOMAIN-SUFFIX,wxs.qq.com
 DOMAIN-SUFFIX,yun-hl.3g.qq.com
 
 # NAME: Services
-DOMAIN-SUFFIX,tagss07.pro
+DOMAIN,tagss07.pro
 
 # NAME: Others
 DOMAIN-SUFFIX,time.windows.com
