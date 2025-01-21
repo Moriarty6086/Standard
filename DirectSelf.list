@@ -1,5 +1,5 @@
 # NAME: PiliPili Streamer
-DOMAIN,streamer.pilipiliultra.com
+DOMAIN-SUFFIX,streamer.pilipiliultra.com
 
 # NAME: Others
 DOMAIN-SUFFIX,time.windows.com
