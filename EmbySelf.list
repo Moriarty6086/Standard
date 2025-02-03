@@ -1,10 +1,8 @@
-# NAME: Main
+# NAME: The Main
 DOMAIN-SUFFIX,cf1.jmsuper.com
 DOMAIN-SUFFIX,cf2.jmsuper.com
 DOMAIN-SUFFIX,nano.jmsuper.com
-DOMAIN-SUFFIX,emby.aca.best
 DOMAIN-SUFFIX,cfloacl.emby.moe
-DOMAIN-SUFFIX,porn.aca.best
 DOMAIN-SUFFIX,cc.coemn.com
 DOMAIN-SUFFIX,dl.carryz.net
 DOMAIN-SUFFIX,misty.cx
@@ -15,10 +13,11 @@ DOMAIN-SUFFIX,emby.as174.de
 DOMAIN-SUFFIX,cf.bili.rip
 DOMAIN-SUFFIX,emby.nebula-media.org
 DOMAIN-SUFFIX,pornemby.com
+DOMAIN-SUFFIX,makima.online
 DOMAIN-KEYWORD,pilipili
 IP-CIDR,167.114.64.176/32
 
-# NAME: Others
+# NAME: The Others
 DOMAIN-SUFFIX,su.viclub.top
 DOMAIN-SUFFIX,cf.306699.xyz
 DOMAIN-SUFFIX,vip3.jellyfin.asia
@@ -32,7 +31,7 @@ IP-CIDR,148.135.111.212/32
 DOMAIN-KEYWORD,reddust.link
 DOMAIN-KEYWORD,misakaf
 
-# NAME: MisakaF
+# NAME: Data of MisakaF(old)
 DOMAIN-SUFFIX,emby.nexitally.com
 DOMAIN-SUFFIX,emby.cjpc.cc
 DOMAIN-SUFFIX,emby.flowercloud.yt
