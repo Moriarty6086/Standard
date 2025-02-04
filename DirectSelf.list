@@ -1,7 +1,10 @@
-# NAME: PiliPili Streamer
-DOMAIN-SUFFIX,streamer.pilipiliultra.com
+# NAME: Direct Emby Media
+DOMAIN,pilipili.club
+DOMAIN,streamer.pilipiliultra.com
+DOMAIN-SUFFIX,makima.online
+DOMAIN-SUFFIX,su.viclub.top
 
-# NAME: Others
+# NAME: Time Calibration
 DOMAIN-SUFFIX,time.windows.com
 
 # NAME: WeXin
