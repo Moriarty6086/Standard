@@ -1,4 +1,5 @@
 # NAME: The Main
+DOMAIN-SUFFIX,emby.pilipiliultra.com
 DOMAIN-SUFFIX,jmsuper.com
 DOMAIN-SUFFIX,nano.jmsuper.com
 DOMAIN-SUFFIX,cfloacl.emby.moe
@@ -10,9 +11,9 @@ DOMAIN-SUFFIX,emby.as174.de
 DOMAIN-SUFFIX,emby.nebula-media.org
 DOMAIN-SUFFIX,pornemby.com
 DOMAIN-SUFFIX,tanhuatv.site
-DOMAIN-KEYWORD,pilipili
 
 # NAME: The Others
+DOMAIN-SUFFIX,cf.306699.xyz
 
 # NAME: Data of MisakaF(old)
 DOMAIN-SUFFIX,emby.nexitally.com
