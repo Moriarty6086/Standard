@@ -1,34 +1,18 @@
 # NAME: The Main
-DOMAIN-SUFFIX,cf1.jmsuper.com
-DOMAIN-SUFFIX,cf2.jmsuper.com
+DOMAIN-SUFFIX,jmsuper.com
 DOMAIN-SUFFIX,nano.jmsuper.com
 DOMAIN-SUFFIX,cfloacl.emby.moe
 DOMAIN-SUFFIX,cc.coemn.com
 DOMAIN-SUFFIX,dl.carryz.net
 DOMAIN-SUFFIX,misty.cx
-DOMAIN-SUFFIX,i109.com
 DOMAIN-SUFFIX,emby.tnx.one
-DOMAIN-SUFFIX,hxd.as174.com
 DOMAIN-SUFFIX,emby.as174.de
-DOMAIN-SUFFIX,cf.bili.rip
 DOMAIN-SUFFIX,emby.nebula-media.org
 DOMAIN-SUFFIX,pornemby.com
+DOMAIN-SUFFIX,tanhuatv.site
 DOMAIN-KEYWORD,pilipili
-IP-CIDR,167.114.64.176/32
 
 # NAME: The Others
-DOMAIN-SUFFIX,su.viclub.top
-DOMAIN-SUFFIX,cf.306699.xyz
-DOMAIN-SUFFIX,vip3.jellyfin.asia
-DOMAIN-SUFFIX,hka-emby1.aliz.work
-DOMAIN-SUFFIX,hka-emby.aliz.work
-DOMAIN-SUFFIX,hka-emby1.aliz.work
-DOMAIN-SUFFIX,hka-emby2.aliz.work
-DOMAIN-SUFFIX,emby.as174.com
-DOMAIN-SUFFIX,tanhuatv.site
-IP-CIDR,148.135.111.212/32
-DOMAIN-KEYWORD,reddust.link
-DOMAIN-KEYWORD,misakaf
 
 # NAME: Data of MisakaF(old)
 DOMAIN-SUFFIX,emby.nexitally.com
