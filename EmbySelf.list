@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,emby.tnx.one
 DOMAIN-SUFFIX,emby.as174.de
 DOMAIN-SUFFIX,emby.nebula-media.org
 DOMAIN-SUFFIX,free.28.al
+IP-CIDR,192.99.35.111/32
 DOMAIN-SUFFIX,pornemby.com
 DOMAIN-SUFFIX,tanhuatv.site
 
