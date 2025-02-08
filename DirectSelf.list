@@ -2,8 +2,6 @@
 DOMAIN-SUFFIX,makima.online
 
 # NAME: The contradictions between Tiktok and Douyin
-DOMAIN-SUFFIX,aweme.snssdk.com
-IP-CIDR,111.6.32.242/32
 
 # NAME: WeXin
 DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
