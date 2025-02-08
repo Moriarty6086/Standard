@@ -1,8 +1,9 @@
 # NAME: Direct Emby Media
 DOMAIN-SUFFIX,makima.online
 
-# NAME: Time Calibration
-DOMAIN-SUFFIX,time.windows.com
+# NAME: The contradictions between Tiktok and Douyin
+DOMAIN-SUFFIX,aweme.snssdk.com
+IP-CIDR,111.6.32.242/32
 
 # NAME: WeXin
 DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
@@ -35,3 +36,6 @@ DOMAIN-SUFFIX,wx.qq.com
 DOMAIN-SUFFIX,wxapp.tc.qq.com
 DOMAIN-SUFFIX,wxs.qq.com
 DOMAIN-SUFFIX,yun-hl.3g.qq.com
+
+# NAME: Time Calibration
+DOMAIN-SUFFIX,time.windows.com
