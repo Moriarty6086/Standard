@@ -1,5 +1,8 @@
 # NAME: Services
 
+# NAME: STM32
+DOMAIN-SUFFIX,st.com
+
 # NAME: Some Websites
 DOMAIN-SUFFIX,xn--9kqs15ei25a.com
 
