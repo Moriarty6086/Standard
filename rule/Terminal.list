@@ -130,7 +130,7 @@ DOMAIN-SUFFIX,stream2.misakaf.org
 DOMAIN-SUFFIX,stream3.misakaf.org
 DOMAIN-SUFFIX,stream4.misakaf.org
 
-# NAME: The Main
+# NAME: Terminal
 DOMAIN-SUFFIX,pilipili.club
 DOMAIN-SUFFIX,emby-direct.pilipiliultra.com
 DOMAIN-SUFFIX,emby.pilipiliultra.com
