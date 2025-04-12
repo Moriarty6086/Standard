@@ -1,5 +1,11 @@
 #DirectCollection
-#Steam
+# NAME: Time Calibration
+DOMAIN-SUFFIX,time.windows.com
+# NAME: Direct Emby Media
+DOMAIN-SUFFIX,makima.online
+# NAME: STM32
+DOMAIN-SUFFIX,st.com
+# NAME: Steam
 DOMAIN,steamcdn-a.akamaihd.net
 DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,steamserver.net
