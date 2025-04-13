@@ -1,1 +1,4 @@
 # RejectList
+# NAME: BiliBili's P2P
+AND,((DOMAIN-SUFFIX,chat.bilibili.com),(DOMAIN-KEYWORD,tracker))
+DOMAIN-SUFFIX,stun.chat.bilibili.com
