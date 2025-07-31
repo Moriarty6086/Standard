@@ -8,3 +8,4 @@ DOMAIN-SUFFIX,st.com
 
 DOMAIN-SUFFIX,naiixi.com
 IP-CIDR,156.246.93.58/32,no-resolve
+IP-CIDR,209.54.107.115/32,no-resolve
