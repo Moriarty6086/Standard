@@ -10,4 +10,5 @@ DOMAIN-SUFFIX,naiixi.com
 IP-CIDR,156.246.93.58/32,no-resolve
 IP-CIDR,156.226.172.117/32,no-resolve
 IP-CIDR,209.54.107.115/32,no-resolve
-IP-CIDR,20.2.112.199/32,no-resolve
+# IP-CIDR,20.2.112.199/32,no-resolve
+IP-CIDR,13.75.127.211/32,no-resolve
