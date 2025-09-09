@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>新年倒计时 - 2026年新年快乐</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- 粒子背景画布 -->
+        <canvas id="particles-canvas"></canvas>
+        
+        <!-- 主内容 -->
+        <div class="main-content">
+            <header class="header">
+                <h1 class="title">新年倒计时</h1>
+                <p class="subtitle">距离 2026 年新年还有</p>
+            </header>
+            
+            <div class="countdown-container">
+                <div class="countdown-item">
+                    <div class="countdown-number" id="days">365</div>
+                    <div class="countdown-label">天</div>
+                </div>
+                <div class="countdown-separator">:</div>
+                <div class="countdown-item">
+                    <div class="countdown-number" id="hours">23</div>
+                    <div class="countdown-label">小时</div>
+                </div>
+                <div class="countdown-separator">:</div>
+                <div class="countdown-item">
+                    <div class="countdown-number" id="minutes">59</div>
+                    <div class="countdown-label">分钟</div>
+                </div>
+                <div class="countdown-separator">:</div>
+                <div class="countdown-item">
+                    <div class="countdown-number" id="seconds">59</div>
+                    <div class="countdown-label">秒</div>
+                </div>
+            </div>
+            
+            <div class="celebration" id="celebration" style="display: none;">
+                <h2 class="celebration-title">🎉 新年快乐！🎉</h2>
+                <p class="celebration-subtitle">2026年已经到来！</p>
+            </div>
+        </div>
+        
+        <!-- 烟花效果容器 -->
+        <canvas id="fireworks-canvas"></canvas>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
