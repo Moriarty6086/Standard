@@ -3,6 +3,7 @@ DOMAIN-SUFFIX,1.ip.skk.moe
 DOMAIN-SUFFIX,ptest-2.ipcheck.ing
 DOMAIN-SUFFIX,mori221b.top
 IP-CIDR,46.202.208.34/32,no-resolve
+IP-CIDR,157.245.199.5/32,no-resolve
 
 #Banned
 DOMAIN-SUFFIX,pincong.rocks
