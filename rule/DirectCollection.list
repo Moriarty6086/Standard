@@ -6,7 +6,7 @@ DOMAIN-SUFFIX,makima.online
 # NAME: STM32
 DOMAIN-SUFFIX,st.com
 
-DOMAIN-SUFFIX,georgedatacenter
+DOMAIN-KEYWORD,georgedatacenter
 
 DOMAIN-SUFFIX,naiixi.com
 IP-CIDR,156.246.93.58/32,no-resolve
