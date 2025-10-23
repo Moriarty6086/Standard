@@ -5,6 +5,11 @@ DOMAIN-SUFFIX,mori221b.top
 IP-CIDR,46.202.208.34/32,no-resolve
 IP-CIDR,157.245.199.5/32,no-resolve
 IP-CIDR,45.129.9.109/32,no-resolve
+IP-CIDR,156.246.93.58/32,no-resolve
+IP-CIDR,156.226.172.117/32,no-resolve
+IP-CIDR,209.54.107.115/32,no-resolve
+IP-CIDR,13.75.127.211/32,no-resolve
+IP-CIDR,142.171.103.218/32,no-resolve
 
 #Banned
 DOMAIN-SUFFIX,pincong.rocks
