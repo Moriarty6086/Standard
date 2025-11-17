@@ -148,6 +148,7 @@ DOMAIN-SUFFIX,emby.as174.de
 DOMAIN-SUFFIX,nebula-media.org
 DOMAIN-SUFFIX,emby.younoyes.com
 DOMAIN-SUFFIX,free.28.al
+DOMAIN-SUFFIX,free3.28.al
 IP-CIDR,192.99.35.111/32
 DOMAIN-SUFFIX,pornemby.com
 DOMAIN-SUFFIX,tanhuatv.site
@@ -179,3 +180,4 @@ DOMAIN-SUFFIX,emos.lol
 DOMAIN-SUFFIX,yunsmartdns.com
 IP-CIDR,209.141.61.153/32
 DOMAIN-SUFFIX,gyplay.xxlb.net
+
