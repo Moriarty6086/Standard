@@ -21,3 +21,6 @@ IP-CIDR,208.67.220.220/32,no-resolve
 
 #The Others
 DOMAIN-SUFFIX,nodeseek.com
+
+#APN
+DOMAIN-SUFFIX,push.apple.com
