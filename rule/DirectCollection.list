@@ -3,8 +3,6 @@
 DOMAIN-SUFFIX,time.windows.com
 # NAME: Direct Emby Media
 DOMAIN-SUFFIX,makima.online
-# NAME: STM32
-DOMAIN-SUFFIX,st.com
 
 DOMAIN-SUFFIX,naiixi.com
 DOMAIN-SUFFIX,jsdc.com
