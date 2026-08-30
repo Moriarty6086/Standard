@@ -1,6 +1,7 @@
 #Pr
 DOMAIN-SUFFIX,0.ip.skk.moe
 DOMAIN-SUFFIX,ptest-1.ipcheck.ing
+DOMAIN-SUFFIX,mori221b.top
 
 IP-CIDR,45.129.9.109/32,no-resolve
 DOMAIN-SUFFIX,happymao.cat
