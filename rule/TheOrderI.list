@@ -15,6 +15,7 @@ IP-CIDR,5.178.101.142/32,no-resolve
 IP-CIDR,23.19.230.250/32,no-resolve
 IP-CIDR,137.131.34.119/32,no-resolve
 IP-CIDR,82.152.161.50/32,no-resolve
+IP-CIDR,103.42.183.184/32,no-resolve
 
 #Banned
 DOMAIN-SUFFIX,pincong.rocks
